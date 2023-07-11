@@ -1,4 +1,3 @@
-The Issue I m facing is to make some parts of my website responsive. Whenver I m tring to check for the responsiveness, my divs size are fixed to 1200px even after 
-applying the media queries. So when the size reduces the content size remains fixed. 
-I tried using vw, or % in my website but that disturbed the flex properties.
-The website is completely working for the laptop screen and I m trying to fix some parts responsiveness so that its completely responsive for all devices.
+When I m trying to open the website by hoisting on GitHub, it is not showing the footer, but when I m checking for responsiveness on my laptop then in the mobile version it showing.
+So, I m trying to fix that and also on my phone that whatsapp(gets started) is not showing properly but when I check on the responsiveness on my laptop it is showing
+correctly. 
