@@ -44,7 +44,7 @@ nav{
   z-index: 9999;
   display: flex;
   align-items: center;
-  width: 100%;
+  width: 100vw;
   height: 56px;
   padding: 8px 16px;
   font-family: "Ubuntu",sans-serif;
@@ -1411,7 +1411,7 @@ box-shadow: 0 3px 6px hsla(0,0%,79%,.5);
 .tenth_container:after {
   position: absolute;
   top: 0;
-  width: 100%;
+  width: 100vw;
   height: 100px;
   content: " ";
   background-color: #fff;
@@ -1573,7 +1573,7 @@ box-shadow: 0 3px 6px hsla(0,0%,79%,.5);
   justify-content: space-between;
   padding: 20px 50px 0;
   background-color: #ebbe00;
-  width: 100%;
+  width: 100vw;
 }
 
 .twelth_container_column{
@@ -1601,7 +1601,7 @@ box-shadow: 0 3px 6px hsla(0,0%,79%,.5);
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 100%;
+  width: 100vw;
   padding: 8px 30px;
   background: #ebbe00;
 }
