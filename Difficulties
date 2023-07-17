@@ -1,3 +1,5 @@
-When I m trying to open the website by hoisting on GitHub, it is not showing the footer, but when I m checking for responsiveness on my laptop then in the mobile version it showing.
-So, I m trying to fix that and also on my phone that whatsapp(gets started) is not showing properly but when I check on the responsiveness on my laptop it is showing
-correctly. 
+1. In the NavBar, I used Bootstrap to create the navigation bar. It was optional to create the inside content of the navbar that's why I haven't created them.
+2. Same goes with that WhatsApp icon that was also optional so I didn't do it.
+3. I have made my website responsive for a max-width of 767px. So it behaves well on desktop mode and when the width is less than or equal to 767px.
+   I have applied all the media queries with respect to 767px only.
+4. For all the images I have directly copied the svgs.
